@@ -13,4 +13,6 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(phrase)
+  if phrase is lower case
+    puts "HUH?! SPEAK UP, SONNY!"
 end
